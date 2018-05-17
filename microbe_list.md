@@ -1,6 +1,6 @@
 ## Microbe List ##
 
-The following is the list of microbes used for the "Featured Microbe" gallery on my website. The ID numbers correspond to the [Public Health Image Library](https://phil.cdc.gov) (PHIL) resources used. You can find the page for each photo by substituting the photo ID in for ### in this url: ```https://phil.cdc.gov/Details.aspx?pid=###```. There are two exceptions to this:   
+The following is the list of microbes used for the "Featured Microbe" gallery on my website. The ID numbers correspond to the [Public Health Image Library](https://phil.cdc.gov) (PHIL) resources used. I used Photoshop to crop the images to a uniform size (350x220px). You can find the original images for each microbe by substituting the photo ID in for ### in this url: ```https://phil.cdc.gov/Details.aspx?pid=###```. There are two exceptions to this:   
 1) For _Trichomonas vaginalis_, index 42, I chose to use one of my own photos. I have included it as well in the image directory as ```5237-alt.jpg```.  
 2) I did not find a good zika virus photo on PHIL for index 48. There for I got another open source image from NIAID at [https://www.flickr.com/photos/niaid/23686785478/in/album-72157667730445062](https://www.flickr.com/photos/niaid/23686785478/in/album-72157667730445062/). I saved this as ```zika.jpg``` in the image directory.
 
@@ -54,5 +54,5 @@ The following is the list of microbes used for the "Featured Microbe" gallery on
 |   45   |_Propionibacterium propionicus_|Bacteria|    4201  |  
 |   46   |_Bordetella bronchiseptica_    |Bacteria|     254  |  
 |   47   |Coronavirus                    |Virus   |   18115  |  
-|   48   |Zika virus                     |Virus   |   NIAID  |  
+|   48   |Zika virus                     |Virus   |    zika  |  
 |   49   |_Aspergillus_                  |Fungi   |   13367  |  
