@@ -1,0 +1,76 @@
+/*      FEATURED MICROBE FORMATTING      */
+
+.feature {
+	clear: none;
+	height: auto;
+	width: 352px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 14px;
+	text-decoration: none;
+	background-color: #E6F3FF;
+	border: 1px double #3366CC;
+	margin-left: 20px;
+	margin-bottom: 2px;
+	display: block;
+	position: static;
+	float: right;
+}
+
+.feature .splash {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-align: center;
+	display: block;
+	background-color: #3366CC;
+	margin: 0px;
+	padding: 0px;
+	letter-spacing: 0.1em;
+}
+
+.feature .pix img{
+	position: relative;
+	top: -12px;
+}
+
+.feature .name {
+	position: relative;
+	top: -14px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: italic;
+	line-height: 16px;
+	color: #003366;
+	text-decoration: none;
+	text-align: center;
+}
+
+.feature .caption {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	text-align: left;
+	padding: 8px;
+	margin:-20px 0px 0px 0px;
+}
+
+.feature .provider {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        line-height: 15px;
+        font-weight: bold;
+        color: #FFFFFF;
+        text-decoration: none;
+        text-align: center;
+        display: block;
+        background-color: #3366CC;
+        margin: 0px;
+        padding-top: 4px;
+	padding-bottom: 2px;
+        letter-spacing: 0.1em;
+}
