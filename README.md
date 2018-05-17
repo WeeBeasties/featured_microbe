@@ -11,6 +11,8 @@ This is a simple javascript project that I built to display a random "Featured M
 
 * **LICENSE**: The MIT license file for this repo   
 
+* **microbe_list.md**: A full listing of all 50 microbes in this gallery
+
 * **microbes.css**: The style sheet for the gallery. It is expected to be in ./css/microbes.css  
  
 * **microbes.js**: The javascript for the gallery. It is expected to be in ./js/microbes.js  
