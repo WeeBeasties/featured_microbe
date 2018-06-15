@@ -36,6 +36,7 @@
 .feature .pix img{
 	display: block;
 	width: 100%;
+	max-width: 318px;
 	position: relative;
 	top: 0px;
 }
